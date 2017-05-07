@@ -8,8 +8,7 @@ Given 8 balls aligned horizontally and numbered 1, 2, 3, 4, 5, 6, 7, 8 from left
 ● Exchange A_Nth ball from the left and B_Nth ball from the left.<br />
 This series of N operations stated above will be one set.<br />
 Your task is to output the ultimate arrangement of these balls after repeating K sets.<br />
-<br />
-<br />
+
 # Input
 Input will be given in the following format from Standard Input: <br />
 NK<br />
